@@ -31,13 +31,9 @@ hs_err_pid*
 .idea/inspectionProfiles/
 .idea/misc.xml
 .idea/workspace.xml
-build.gradle
-build/
-gradle/
-gradlew
-gradlew.bat
+
 out/
-settings.gradle
+
 
 #.gitignore
 4.4/
